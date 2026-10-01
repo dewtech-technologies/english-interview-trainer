@@ -1,18 +1,40 @@
 # English Interview Trainer
 
-Ferramentas para treinar **inglês falado para entrevista técnica**, com medição
-objetiva. Roda **100% local** — nenhum áudio sai da sua máquina.
+**Instrumentação para medir e treinar fala em segunda língua**, aplicada a
+entrevista técnica. Roda **100% local** — nenhum áudio sai da máquina.
 
-Não é curso e não ensina gramática. É instrumentação: grava você, mede o que
-importa numa entrevista, e aponta onde está o problema.
+Não é curso e não ensina gramática. É um harness de medição: grava, transcreve,
+compara contra referência, e reporta métricas objetivas em vez de impressão.
 
 ---
 
-## A ideia em uma frase
+## O problema que isso resolve
 
-Se um transcritor automático não entende o que você falou, um entrevistador sob
-carga cognitiva também não vai. Erro de transcrição é sinal **objetivo** de falha
-de inteligibilidade, e dá para medir isso todo dia.
+Treino de fala costuma ser avaliado por sensação. "Acho que melhorei" não é
+medição, e sem medição você não sabe se o método funciona nem onde está o gargalo.
+
+A tese aqui é simples e testável: **se um transcritor automático não entende o
+que foi falado, um ouvinte humano sob carga cognitiva também não vai.** Erro de
+transcrição vira sinal objetivo de falha de inteligibilidade — reprodutível,
+comparável no tempo, e barato de coletar.
+
+A partir daí o resto é engenharia: definir métricas, validar o próprio
+instrumento, e estabelecer teto de referência em vez de alvo arbitrário.
+
+---
+
+## Resultado medido num caso real
+
+Cinco semanas de uso, mesmo texto, mesmo juiz:
+
+| | Início | Depois |
+|---|---|---|
+| Ritmo | 42 wpm | 92 wpm |
+| Travadas (pausa > 3s) | 7 | 0 a 1 |
+| Palavras numa resposta de 3 min | 111 | 304 |
+
+O ponto não são os números em si — é que **existem**, e que a mesma régua os
+produziu nos dois momentos.
 
 ---
 
