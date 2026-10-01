@@ -1,0 +1,6 @@
+{
+  "_comentario": "Copie para config.json e ajuste. config.json fica fora do git.",
+  "clone_voice_dir": "C:/caminho/para/clone-voice",
+  "voz_dir": "voices/nsa_clips12",
+  "modelo_xtts": "tts_models/multilingual/multi-dataset/xtts_v2"
+}

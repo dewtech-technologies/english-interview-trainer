@@ -1,0 +1,17 @@
+# Audio: gravacoes pessoais e modelos gerados. Grandes e regeneraveis.
+audio/*.wav
+audio/*.mp3
+audio/*.m4a
+audio/*.ogg
+audio/**/*.wav
+audio/**/*.json
+audio/sim-*/
+
+# Config local com caminhos da maquina
+config.json
+
+logs/*.log
+logs/*.output
+__pycache__/
+*.pyc
+.venv/

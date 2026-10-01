@@ -1,0 +1,88 @@
+# Banco de perguntas para simulacao. Uma por linha.
+# Formato: categoria | pergunta
+# Linhas com # sao ignoradas.
+
+historia | Tell me about the most challenging project you have worked on.
+historia | Tell me about a time you made a mistake. What happened?
+historia | Tell me about a technical decision you regret.
+historia | Tell me about a time you disagreed with a developer. How did you handle it?
+historia | Tell me about something you built that did not work.
+historia | Walk me through a security issue you found and how you fixed it.
+historia | Tell me about a time you had to learn something quickly.
+historia | What is the project you are most proud of, and why?
+
+fundo | Tell me about yourself.
+fundo | Walk me through your professional experience.
+fundo | Why are you looking for a new opportunity?
+fundo | What are you looking for in your next role?
+fundo | Why should we consider you for this position?
+fundo | What is your strongest technical skill?
+fundo | Where do you see yourself in three years?
+fundo | What kind of work do you enjoy the most?
+
+tecnica | How do you prioritize vulnerabilities?
+tecnica | What is the difference between static and dynamic analysis?
+tecnica | How would you secure an API?
+tecnica | How do you approach supply chain security?
+tecnica | How do you handle secrets and credentials in an application?
+tecnica | What is broken object level authorization, and why does it matter?
+tecnica | How do you do threat modeling?
+tecnica | What is the difference between functional and integration tests?
+
+ia | How would you secure an application that uses a large language model?
+ia | What is prompt injection, and how do you defend against it?
+ia | How would you evaluate an agent on a terminal task?
+ia | What are the risks of giving an agent access to tools?
+ia | How do you decide if an agent benchmark is trustworthy?
+ia | What is excessive agency, and why is it a problem?
+ia | How would you build training data for an agent model?
+ia | What is retrieval augmented generation, and where does it fail?
+
+inesperada | What do you do when you do not know the answer to something?
+inesperada | How do you keep up with security news?
+inesperada | What would your last manager say about you?
+inesperada | What is something you changed your mind about recently?
+inesperada | How do you handle working alone, without a team?
+inesperada | Describe your ideal working day.
+inesperada | What do you do outside of work?
+inesperada | If we hire you, what would you want to do in the first month?
+inesperada | What is a technology you think is overrated?
+inesperada | Tell me something that is not on your resume.
+
+logistica | What are your rate expectations?
+logistica | What is your availability?
+logistica | How many hours of overlap can you do with a United States time zone?
+logistica | Are you comfortable working as a contractor?
+logistica | Do you have any questions for me?
+
+# --- incidente / war room (adicionado 2026-08-28) ---
+historia | Tell me about an incident you had to respond to. What did you do?
+historia | Tell me about a time you had to make a decision under pressure, with incomplete information.
+historia | Walk me through the last production incident you were part of.
+historia | How do you communicate during an incident, when things are still unclear?
+tecnica | How do you run an incident response? Walk me through your process.
+tecnica | What do you do first when you get paged for a security incident?
+tecnica | How do you decide when an incident is over?
+inesperada | What is the worst on-call experience you have had?
+
+# --- RH e tecnicas adicionais (2026-08-31) ---
+logistica | What is your current notice period? How soon could you start?
+logistica | Are you currently interviewing with other companies?
+logistica | What is your current rate, if you do not mind sharing?
+logistica | Do you have any other ongoing commitments or clients?
+logistica | Are you comfortable with a long-term engagement, ten months or more?
+logistica | How do you usually handle invoicing and payments as a contractor?
+logistica | Have you worked with a United States team before?
+fundo | What do you know about our company?
+fundo | What made you apply for this particular role?
+fundo | How would you describe your working style?
+fundo | What kind of team do you work best with?
+fundo | Tell me about your career path. Why did you move into security?
+inesperada | How do you handle feedback you disagree with?
+inesperada | What is the hardest thing about working remotely?
+inesperada | How do you communicate when you are blocked?
+tecnica | How would you test whether a security control actually works?
+tecnica | Walk me through your process when you find a vulnerability in production.
+ia | How would you detect indirect prompt injection in a RAG pipeline?
+ia | An agent has a shell. What controls do you put around it?
+ia | How do you measure whether a guardrail is effective?

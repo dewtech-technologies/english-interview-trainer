@@ -1,0 +1,9 @@
+Hi, I am FIRST_NAME. I am a JOB_TITLE focused on AREA_ONE and AREA_TWO.
+
+I have N years of experience in software development. I started in EARLY_AREA, and for the last M years I have been focused on CURRENT_AREA.
+
+My main project right now is PROJECT_NAME. ONE SENTENCE ON WHAT IT DOES. ONE SENTENCE ON THE INTERESTING TECHNICAL PART.
+
+On the SPECIALTY side, I SHORT_LIST_OF_WHAT_YOU_ACTUALLY_DO.
+
+So the combination is this. SENTENCE THAT SAYS WHY YOU ARE DIFFERENT FROM SOMEONE WITH THE SAME TITLE.

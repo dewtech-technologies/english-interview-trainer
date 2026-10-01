@@ -1,0 +1,11 @@
+# Juiz de pronuncia (pron_check.py). Roda em CPU.
+openai-whisper>=20250625
+torch>=2.0
+
+# NAO listado aqui, mas obrigatorio no PATH:
+#   ffmpeg + ffprobe  ->  https://ffmpeg.org/download.html
+#   (Windows: winget install Gyan.FFmpeg)
+
+# O gerar_modelos.py (voz clonada) NAO usa este ambiente.
+# Ele roda no venv do projeto clone-voice, que tem coqui-tts + torch 2.8.
+# Veja README.md > "Voz clonada (opcional)".

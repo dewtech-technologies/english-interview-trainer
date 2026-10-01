@@ -1,0 +1,13 @@
+# Follow-ups do modo tecnica. Um por linha.
+# Sao tocados DEPOIS da resposta principal, sorteados.
+# E aqui que resposta decorada desmorona.
+Why did you choose that approach?
+What is the trade-off there?
+How would you test that?
+Can you give me a concrete example?
+What would you do differently today?
+How did you measure that?
+What was the hardest part?
+What happens if that assumption is wrong?
+How does that scale?
+Who else was involved, and what did you own?
